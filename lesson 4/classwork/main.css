@@ -1,0 +1,76 @@
+/*task 1*/
+body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.wrap{
+    background-color: paleturquoise;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+}
+.head{
+    background-color: red;
+    flex-grow: 1;
+}
+.content{
+    display: flex;
+    background-color: darkred;
+    flex-grow: 3;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+    background-color: orange;
+}
+.paragraf{
+    background-color: aqua;
+    flex-grow: 1;
+}
+.navbar{
+    display: flex;
+    background-color: darkslategrey;
+    flex-grow: 2;
+}
+.menu{
+    flex-grow: 1;
+    background-color: purple;
+}
+.a{
+    flex-grow: 1;
+    margin: 5px 5px 5px 5px;
+    background-color: greenyellow;
+}
+
+/*task 2*/
+.par{
+    background-color: darkslategrey;
+    flex-grow: 1;
+
+}
+.car{
+    background-color: lawngreen;
+    display: flex;
+    flex-grow: 3;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 4;
+    background-color: darkred;
+}
+
+
+.ab{
+    flex: 1 1 auto;
+    margin: 1px;
+    background-color: darkcyan;
+
+}
+.line{
+    background-color: cyan;
+    flex-grow: 1;
+}
