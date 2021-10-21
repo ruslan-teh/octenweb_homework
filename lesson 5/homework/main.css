@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+/*task 1*/
+.wraper{
+    box-sizing: border-box;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    margin: 10px;
+
+}
+.fg{
+    flex-grow: 1;
+}
+.fg-2{
+    flex-grow: 2;
+}
+
+.bc{
+    box-sizing: border-box;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+.display{
+    display: flex;
+    background-color: cornflowerblue;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+
+
