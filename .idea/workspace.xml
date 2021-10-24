@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eb70ea1-ba86-41b5-acbd-c57bc34a6555" name="Changes" comment="lesson 4 compleat all task">
-      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 5/homework/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 5/homework/main.css" afterDir="false" />
+    <list default="true" id="2eb70ea1-ba86-41b5-acbd-c57bc34a6555" name="Changes" comment="lesson 5">
+      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/resp.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 5/classwork/task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson 5/classwork/task2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,12 @@
       <workItem from="1634722079618" duration="2257000" />
       <workItem from="1634732402987" duration="1797000" />
       <workItem from="1634806042445" duration="9147000" />
-      <workItem from="1634823515157" duration="2544000" />
+      <workItem from="1634823515157" duration="6087000" />
+      <workItem from="1634990058536" duration="887000" />
+      <workItem from="1634991509215" duration="2256000" />
+      <workItem from="1635009390537" duration="634000" />
+      <workItem from="1635073546900" duration="1737000" />
+      <workItem from="1635093921698" duration="11649000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 3">
       <created>1634504414253</created>
@@ -93,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634734134193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 5">
+      <created>1634826309264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634826309264</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +129,7 @@
     <MESSAGE value="lesson 4" />
     <MESSAGE value="lesson 4 task 2" />
     <MESSAGE value="lesson 4 compleat all task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 compleat all task" />
+    <MESSAGE value="lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5" />
   </component>
 </project>
