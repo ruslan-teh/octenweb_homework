@@ -50,9 +50,14 @@ table {
     padding: 0 20px;
 }
 
+
+/*header*/
+
 .header{
+    display: flex;
     height: 100vh;
-    background: url("/image/bg.png") no-repeat center/cover;
+    flex-direction: column;
+    background: url("/lesson 6/image/bg.png") no-repeat center/cover;
 }
 .header-top__btn{
     display: none;
@@ -179,6 +184,57 @@ table {
     flex-direction: column;
     align-items: center;
 }
+
+
+/*description*/
+
+.main__description{
+    height: 100vh;
+    background: #E5E5E5 center/cover;
+}
+.main__card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: -75px;
+}
+.description__card{
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    margin: 0 30px;
+}
+description__img img{
+    width: 125px;
+}
+.description__text p{
+    padding: 20px 0 ;
+    text-align: center;
+    font-family: Tinos;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+}
+.description__text p span{
+    color: #BC9060;
+}
+.main__card-wrap{
+    position: relative;
+}
+
+
+
+
+
+
+
+
 
 
 
