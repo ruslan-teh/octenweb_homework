@@ -33,4 +33,15 @@
         flex-direction: column;
         align-items: center;
     }
+
+/*    description*/
+    .main__card{
+        display: flex;
+        flex-direction: column;
+    }
+    .description__card{
+        height: auto;
+        width: auto;
+        margin-top: 20px;
+    }
 }
