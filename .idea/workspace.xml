@@ -1,108 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2eb70ea1-ba86-41b5-acbd-c57bc34a6555" name="Changes" comment="lesson 5">
-      <change afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/resp.css" afterDir="false" />
+    <list default="true" id="52713fc1-135f-4eaf-95bd-bcff2e375ec8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 5/classwork/task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 5/classwork/task2/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 5/classwork/task2/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="ProjectId" id="1zdFRIB5QrtoJm7FNvMrdoHwi1F" />
+  <component name="ProjectId" id="2031wJqy2FSeWPuJhboAbTHX9Wp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\octenweb\lesson 4\homework" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2eb70ea1-ba86-41b5-acbd-c57bc34a6555" name="Changes" comment="" />
-      <created>1634470051238</created>
+      <changelist id="52713fc1-135f-4eaf-95bd-bcff2e375ec8" name="Changes" comment="" />
+      <created>1635258698318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634470051238</updated>
-      <workItem from="1634470053392" duration="163000" />
-      <workItem from="1634470741721" duration="177000" />
-      <workItem from="1634500908883" duration="3722000" />
-      <workItem from="1634636421838" duration="12274000" />
-      <workItem from="1634660420279" duration="3786000" />
-      <workItem from="1634722079618" duration="2257000" />
-      <workItem from="1634732402987" duration="1797000" />
-      <workItem from="1634806042445" duration="9147000" />
-      <workItem from="1634823515157" duration="6087000" />
-      <workItem from="1634990058536" duration="887000" />
-      <workItem from="1634991509215" duration="2256000" />
-      <workItem from="1635009390537" duration="634000" />
-      <workItem from="1635073546900" duration="1737000" />
-      <workItem from="1635093921698" duration="11649000" />
+      <updated>1635258698318</updated>
+      <workItem from="1635258700496" duration="703000" />
     </task>
-    <task id="LOCAL-00001" summary="lesson 3">
-      <created>1634504414253</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1634504414254</updated>
-    </task>
-    <task id="LOCAL-00002" summary="lesson 4">
-      <created>1634655912897</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1634655912897</updated>
-    </task>
-    <task id="LOCAL-00003" summary="lesson 4 task 2">
-      <created>1634662424777</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1634662424777</updated>
-    </task>
-    <task id="LOCAL-00004" summary="lesson 4 compleat all task">
-      <created>1634734134193</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1634734134193</updated>
-    </task>
-    <task id="LOCAL-00005" summary="lesson 5">
-      <created>1634826309264</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1634826309264</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,18 +50,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/lesson 2" />
-      <path value="$PROJECT_DIR$/test" />
-    </ignored-roots>
-    <MESSAGE value="lesson 3" />
-    <MESSAGE value="lesson 4" />
-    <MESSAGE value="lesson 4 task 2" />
-    <MESSAGE value="lesson 4 compleat all task" />
-    <MESSAGE value="lesson 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 5" />
   </component>
 </project>
