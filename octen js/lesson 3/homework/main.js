@@ -7,16 +7,12 @@
 
 
 
-// let arr = [];
-// let arr_str=[]
-// let arr_mixed=[]
-// for (let i = 0; i < 5; i++) {
-//     arr[i] = i + 1 ;
-//     arr_str[i] = ' ' + (i + 1);
-//     arr_mixed[i] = true;
-// }
-//
-// console.log(arr,arr_str,arr_mixed);
+// let text = ['one', 'two', 'apple', 'team', 'okten'];
+// let num = [1, 1992, 2002, 2021, 911];
+// let all = [false, 'two', 1996, true, 'okten'];
+// console.log(text);
+// console.log(num);
+// console.log(all);
 
 
 // -- Створити пустий масив. Наповнити його будь-якими значеннями звертаючись до конкретного індексу. Вивести в консоль
@@ -132,20 +128,21 @@
 
 
 // let arr = [ ];
-// for (let i = 0; i < 10; i++) {
-//     arr[0] = 'six';
-//     arr[1] = 3;
-//     arr[2] = true;
-//     arr[3] = 'kckjc';
-//     arr[4] = 99;
-//     arr[5] = 'nine';
-//     arr[6] = 'pen';
-//     arr[7] = false;
-//     arr[8] = null;
-//     arr[9] = 3322;
+// arr[0] = 'six';
+// arr[1] = 3;
+// arr[2] = true;
+// arr[3] = 'kckjc';
+// arr[4] = 99;
+// arr[5] = 'nine';
+// arr[6] = 'pen';
+// arr[7] = false;
+// arr[8] = null;
+// arr[9] = 3322;
+// for (let i = 0; i < arr.length; i++) {
+//
+//     console.log(arr[i]);
 //
 // }
-// console.log(arr);
 
 
 
@@ -185,8 +182,9 @@
 // - Створити цикл for на 100 ітерацій. Вивести тільки парні кроки. через console.log + document.write
 
 // for (let i = 0; i < 100; i++) {
-//     if (!(i % 2)){
+//     if (i % 2 ===0){
 //         console.log(i);
+//         document.write(`<div>${i}</div>`)
 //     }
 // }
 
@@ -196,8 +194,9 @@
 
 
 // for (let i = 0; i < 100; i++) {
-//     if (i % 2){
+//     if (i % 2 !== 0){
 //         console.log(i);
+//         document.write(`<div>${i}</div>`)
 //     }
 //
 // }

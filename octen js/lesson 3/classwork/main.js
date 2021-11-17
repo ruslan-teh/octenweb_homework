@@ -27,7 +27,7 @@
 
 // let i = 0;
 // while (i < arr.length){
-//     if (i%2){
+//     if (i%2 !== 0){
 //         console.log(arr[i]);
 //
 //     }
@@ -39,7 +39,7 @@
 // 4. перебрати циклом for та вивести  числа тільки з непарним індексом
 
 // for (let i = 0; i < arr.length; i++) {
-//     if (i%2){
+//     if (i%2 !== 0){
 //         console.log(arr[i]);
 //     }
 //
@@ -54,7 +54,7 @@
 
 // let i = 0;
 // while (i < arr.length){
-//     if(!(arr[i]%2)){
+//     if(arr[i]%2 === 0){
 //         console.log(arr[i])
 //     }
 //
@@ -67,7 +67,7 @@
 
 
 // for (let j = 0; j < arr.length; j++) {
-//     if (!(arr[j]%2)){
+//     if (arr[j]%2 === 0){
 //         console.log(arr[j]);
 //     }
 //
@@ -81,7 +81,7 @@
 
 
 // for (let j = 0; j < arr.length; j++) {
-//    if (!(arr[j]%3)){
+//    if (arr[j]%3 === 0){
 //        arr[j] = 'okten';
 //
 //    }
@@ -100,7 +100,7 @@
 
 // 9. всі попередні завдання (окрім 8), але в зворотньому циклі (с заду на перед)
 
-
+// let arr = [2,17,13,6,22,31,45,66,100,-18];
 
 // 1
 // let i = arr.length - 1;
@@ -122,7 +122,7 @@
 
 // let i = arr.length - 1;
 // while (i >= 0){
-//     if (i%2){
+//     if (i%2 === 0){
 //         console.log(arr[i]);
 //
 //     }
@@ -132,7 +132,7 @@
 
 // 4
 // for (let i = arr.length - 1; i >= 0; i--) {
-//     if (i % 2) {
+//     if (i%2 === 0) {
 //         console.log(arr[i]);
 //     }
 // }
@@ -142,7 +142,7 @@
 
 // let i = arr.length - 1;
 // while (i > 0){
-//     if(!(arr[i]%2)){
+//     if(arr[i]%2 === 0){
 //         console.log(arr[i])
 //     }
 //
@@ -153,7 +153,7 @@
 // 6
 
 // for (let j = arr.length - 1; j >= 0; j--) {
-//     if (!(arr[j]%2)){
+//     if (arr[j]%2 === 0){
 //         console.log(arr[j]);
 //     }
 //
@@ -162,7 +162,7 @@
 
 // 7
 // for (let j = arr.length - 1; j >= 0; j--) {
-//    if (!(arr[j]%3)){
+//    if (arr[j]%3 === 0){
 //        arr[j] = 'okten';
 //    }
 // console.log(arr[j]);
