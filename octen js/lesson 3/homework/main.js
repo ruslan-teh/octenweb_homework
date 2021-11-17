@@ -22,11 +22,11 @@
 // -- Створити пустий масив. Наповнити його будь-якими значеннями звертаючись до конкретного індексу. Вивести в консоль
 
 
-let arr = ['page 1', 'page 2', 'page 3', 'page 4', 'page 5', 'page 6', 'page 7'];
-for (let i = 0; i < arr.length; i++) {
-    console.log(arr[5]);
-
-}
+// let arr = ['page 1', 'page 2', 'page 3', 'page 4', 'page 5', 'page 6', 'page 7'];
+// for (let i = 0; i < arr.length; i++) {
+//     console.log(arr[5]);
+//
+// }
 
 
 
@@ -131,12 +131,21 @@ for (let i = 0; i < arr.length; i++) {
 // - Створити порожній масив. Наповнити його 10 елементами (різними за типами) через звернення до конкретних індексів. Вивести в консоль всі його елементи в циклі.
 
 
-// let arr = ['six', 2, 'one', 5, true, 983272, 212, true, 'home'];
-// for (let arrKey in arr) {
-//     console.log(arr[arrKey]);
+// let arr = [ ];
+// for (let i = 0; i < 10; i++) {
+//     arr[0] = 'six';
+//     arr[1] = 3;
+//     arr[2] = true;
+//     arr[3] = 'kckjc';
+//     arr[4] = 99;
+//     arr[5] = 'nine';
+//     arr[6] = 'pen';
+//     arr[7] = false;
+//     arr[8] = null;
+//     arr[9] = 3322;
 //
 // }
-
+// console.log(arr);
 
 
 
