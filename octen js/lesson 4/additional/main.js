@@ -40,7 +40,7 @@
 
 
 // let object = [{name: 'Dima', age: 13}, {model: 'Camry'}];  /*===> [ name, age, model ]*/
-
+//
 // function objectKey(arg){
 //     let key = [];
 //     let j = 0;
@@ -54,7 +54,7 @@
 // }
 //
 // console.log(objectKey(object))
-
+//
 
 
 //     - Створити функцію яка приймає масив будь яких объектів, та повертає масив значень всіх обєктів
@@ -63,14 +63,16 @@
 
 // let obj = [{name: 'Dima', age: 13}, {model: 'Camry'}];/*[ Dima, 13, Camry ]*/
 //
-// function type(object){
-//     let nameObj = [];
-//     for (let i = 0; i < object.length; i++) {
+// function name (arg) {
+//     let array=[]
+//     let i = 0;
+//     for (let argElement of arg) {
+//         for (let item in argElement) {
+//             array[i] = argElement[item];
+//             i++
+//         }
 //     }
-//     return nameObj;
+//     return array
 // }
-//
-// console.log(type(obj));;
-
-
+// console.log(name (obj));
 

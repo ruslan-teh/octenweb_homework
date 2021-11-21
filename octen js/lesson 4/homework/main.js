@@ -3,7 +3,8 @@
 // function area (a, b){
 //     return a * b;
 // }
-//     document.write(area(5, 6));
+//
+// console.log(area(5, 6));
 
 
 
@@ -11,16 +12,16 @@
 
 // function areaCircle(r){
 //     let areacircle = Math.round(Math.PI * (r ** 2));
-//     document.write(areacircle);
+//     console.log(areacircle);
 // }
-// areaCircle(6);
+// areaCircle(2);
 
 
 // - створити функцію яка обчислює та повертає площу циліндру висотою h, та радіутом r
 
 // function areaСylinder(h, r){
 //     let areacylinder = Math.round(2 * Math.PI * r * h);
-//     document.write(areacylinder);
+//     console.log(areacylinder);
 // }
 // areaСylinder(6,1);
 
@@ -30,10 +31,10 @@
 // let obj = [10,20,30,40,50,60];
 // function massif(obj){
 // for (let i = 0; i < obj.length; i++) {
-//     document.write(obj[i]);
-//    }
+//     console.log(obj[i]);
 // }
-// massif();
+// }
+// massif(obj);
 
 
 

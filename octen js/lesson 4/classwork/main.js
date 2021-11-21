@@ -28,23 +28,34 @@
 
 // - створити функцію яка повертає найбільше число з масиву
 
-// let nums = [ 23, 345, 567, 32, 4577, 3321, 9596, 10000];
-// function maxNums (a){
-//    return Math.max.apply(Math, a)
+// let nums = [ 23, 345, 10001, 38, 4677, 3312873821, 9596, 10000];
+
+// function maxNums (element){
+//     let max = element[0]
+//     for (let i = 0; i < element.length; i++) {
+//         if(element[i] > max){
+//             max = element[i]
+//         }
+//     }
+//     return max
 // }
-// let max = maxNums(nums);
-// console.log(max);
+// console.log(maxNums(nums));
 
 
 
 // - створити функцію яка повертає найменьше число з масиву
 
-// let nums = [ 23, 345, 567, 32, 4577, 1, 3321, 9596, 10000];
-// function maxNums (a){
-//     return Math.min.apply(Math, a)
+// let nums = [ 23, 345, 567, 32, 4577, 3321, 9596, 10000, 1];
+// function maxNums (element){
+//     let max = element[0]
+//     for (let i = 0; i < element.length; i++) {
+//         if(element[i] < max){
+//             max = element[i]
+//         }
+//     }
+//     return max
 // }
-// let max = maxNums(nums);
-// console.log(max);
+// console.log(maxNums(nums));
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 
