@@ -43,9 +43,9 @@
 //             max = element[i]
 //         }
 //     }
-//     console.log(max);
+//     return max;
 // };
-// maxNums(nums);
+// console.log(maxNums(nums));
 
 
 // - створити функцію яка повертає найменьше число з масиву
@@ -59,9 +59,9 @@
 //             min = element[i]
 //         }
 //     }
-//     console.log(min);
+//     return min;
 // };
-// minNums(nums);
+// console.log(minNums(nums));
 
 
 // - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
@@ -74,26 +74,28 @@
 //     for (let aElement of arg) {
 //         suma += aElement;
 //     }
-//     console.log(suma);
+//     return suma;
 // };
-// sum(nums);
+// console.log(sum(nums));
 
 
 // - створити функцію яка приймає масив чисел та повертає середнє арифметичне його значень.
 
 // let nums = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-
-
+//
+//
 // let sum = (arg) => {
 //     let suma = 0;
 //     let numbers = 0;
+//     let allElement = 0;
 //     for (let aElement of arg) {
 //         suma += aElement;
-//         numbers = suma / aElement;
+//         allElement = aElement;
 //     }
-//     console.log(numbers);
+//     numbers = suma / allElement;
+//     return numbers;
 // };
-// sum(nums)
+// console.log(sum(nums));
 
 
 

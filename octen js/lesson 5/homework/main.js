@@ -58,7 +58,7 @@
 //         document.write(`<li>${text}</li>`)
 //
 //     }
-//     document.write(`</ul>`)
+//     document.write(`</ul>`);
 // }
 // listCreator2('hello', 3);
 
@@ -72,7 +72,7 @@
 //         document.write(`<li>${masif[i]}</li>`)
 //
 //     }
-//     document.write(`</ul>`)
+//     document.write(`</ul>`);
 // }
 // list(masif);
 
