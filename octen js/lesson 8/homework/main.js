@@ -7,8 +7,8 @@
 
 // -- отримує текст з блоку з id "rules"
 
-// let rules = document.getElementById('rules');
-// console.log(rules);
+let rules = document.getElementById('rules');
+console.log(rules.innerText);
 
 
 // -- замініть текст параграфа з id 'content' на будь-який інший
