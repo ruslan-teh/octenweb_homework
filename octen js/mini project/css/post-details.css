@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    margin: 0;
+    text-align: center;
+
+}
+.postElement{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.postTitle{
+    background-color: aqua;
+    padding: 15px;
+
+
+}
+
+.postItem{
+    box-sizing: border-box;
+    width: 20%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: brown;
+}

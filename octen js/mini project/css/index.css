@@ -1,0 +1,25 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.userDiv{
+    box-sizing: border-box;
+    width: 45%;
+    text-align: center;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
+}
+
+.userH{
+    text-shadow: 0 0 6px rgba(255,255,255,0.7);
+    color: greenyellow;
+}
+
+.userBtn{
+    text-decoration: none;
+    color: darkolivegreen;
+}
